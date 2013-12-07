@@ -14,12 +14,9 @@ Elementary School (6-12)
 
 ---
 #Overall
-* provide 3 pieces of plastic bottles
-* input sugar, sand, and coffee powder into each bottle
-* add enough water
-* stir till homogeneous
-* compare the 3rd bottle
-* specify what type of solution is
+Colloidal systems (hereinafter referred to as "colloidal" only) is a form of mixture (dispersion system) of two or more substances that are homogeneous but has a dispersed particle size is quite large (1-100 nm), and thus subject to the Tyndall effect. Means homogeneous dispersed particles are not affected by gravity or other forces imposed on him; thus no precipitation occurs, for example. Homogeneous properties are shared by the solution, but not owned by the usual mixture (suspension).
+
+Colloidal easily found everywhere: milk, gelatin, ink, shampoo, and the clouds are examples of colloids that can be found everyday. The cytoplasm of the cells is also a colloidal system. Colloidal chemistry to be studied separately because of its importance in the chemical industry.
 
 
 ---
